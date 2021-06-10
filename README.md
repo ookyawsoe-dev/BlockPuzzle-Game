@@ -1,6 +1,6 @@
 # BlockPuzzle-Game with java
 GUIDE FOR PLAYING GAME:
-Move left and  right key  as you like to move those directions.
-Up key is to change block sign.
-Spacebar is to move down quickly.
-P is to PAUSE game.
+1. Move left and  right key  as you like to move those directions.
+2. Up key is to change block sign.
+3. Spacebar is to move down quickly.
+4. P is to PAUSE game.
